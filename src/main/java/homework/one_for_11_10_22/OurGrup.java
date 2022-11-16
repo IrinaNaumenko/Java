@@ -1,4 +1,4 @@
-package Homework.one_for_11_10_22;
+package homework.one_for_11_10_22;
 
 public class OurGrup {
 

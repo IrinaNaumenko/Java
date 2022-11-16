@@ -1,4 +1,4 @@
-package Homework.two_for_13_10_22;
+package homework.two_for_13_10_22;
 
 public abstract class Student {
     private String name;

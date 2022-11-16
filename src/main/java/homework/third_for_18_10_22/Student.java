@@ -1,4 +1,4 @@
-package Homework.third_for_18_10_22;
+package homework.third_for_18_10_22;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
